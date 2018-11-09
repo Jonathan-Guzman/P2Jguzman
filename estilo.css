@@ -177,7 +177,7 @@ li a{
 .imagenes img {
   width: 160px;
   height: 160px;
-  margin: 15px;
+  margin: 16px;
   {
 
   }.article a, #centradito a {
@@ -257,5 +257,37 @@ li a{
   color: #ccc;
 }
 .bg_gris {
-	background: #54d154;
-	height: 800px;
+	background: #f2f1f1;
+    height: px;
+	}
+	.imagenes2{
+	}
+#imageni img{
+	    display: flex;
+		justify-content: center;
+		width: 100px;
+		height: 50px;
+		margin: 50px;
+}
+#imgi img{
+		display: flex;
+		justify-content: center;
+		width: 100px;
+		height: 50px;
+		margin: 50px;
+}
+.sellalclient a, #centradito2 a{
+	background: #dddcdc;
+	color: #a59d9d;
+	text-align: center;
+	display: block;
+	width:200px;
+	height: 40px;
+	border-radius: 30px;
+	padding: 9px 0;
+	font-weight: normal;
+	font-size: 16px;
+	transition: 0.5s ease all;
+	margin: auto;
+	margin-top: 50px; 
+{
